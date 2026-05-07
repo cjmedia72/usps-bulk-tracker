@@ -1,5 +1,9 @@
 # USPS Bulk Tracker
 
+<p align="center">
+  <img src="assets/screenshot.png" alt="USPS Bulk Tracker popup — paste tracking numbers, click Track All, copy a clean TSV" width="420">
+</p>
+
 Chrome extension for bulk-tracking USPS packages directly from the official `tools.usps.com` tracking page. Designed as a 17track replacement for sellers and ops teams that move volume.
 
 ## About
