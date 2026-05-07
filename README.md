@@ -2,6 +2,12 @@
 
 Chrome extension for bulk-tracking USPS packages directly from the official `tools.usps.com` tracking page. Designed as a 17track replacement for sellers and ops teams that move volume.
 
+## About
+
+Lightweight Chrome extension that turns the official USPS tracking page into a bulk lookup tool. Paste a list of tracking numbers, click **Track All**, and copy a clean TSV or CSV straight into your spreadsheet — no third-party API, no per-request fees, no rate limits beyond what USPS itself enforces. Built for sellers and operations teams who move enough volume to outgrow 17track but don't want to wire up a paid tracking API.
+
+Released under the [MIT License](LICENSE).
+
 ## What it does
 
 - Tracks up to 35 packages per batch, runs multiple batches back-to-back automatically
